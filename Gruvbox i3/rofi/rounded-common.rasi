@@ -1,5 +1,5 @@
 * {
-    font:   "FiraCodeNerdFont";
+    font:   "FiraCodeNerdFont 12";
 
     background-color:   transparent;
     text-color:         @fg0;
