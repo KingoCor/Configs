@@ -1,0 +1,5 @@
+require("base_settings")
+require("keys/main")
+require("keys/plugins")
+require("packer_install")
+require("plugins")

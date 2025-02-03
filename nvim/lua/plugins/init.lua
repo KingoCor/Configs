@@ -1,0 +1,6 @@
+require("plugins/lualine")
+require("plugins/theme")
+require("plugins/cmp")
+require("plugins/image")
+require("plugins/molten")
+require("plugins/treesitter")
